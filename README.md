@@ -23,7 +23,7 @@
 |Design and characterization of a nanocomposite pressure sensor implemented in a tactile robotic system|IEEE Transactions on Instrumentation and Measurement|[PDF](https://ieeexplore.ieee.org/document/5742700)|
 |A flexible tactile sensitive sheet using a hetero-core fiber optic sensor|23rd International Conference on Optical Fibre Sensors. SPIE|[PDF](https://doi.org/10.1117/12.2059442)|
 |A tactile sensing element based on a hetero-core optical fiber for force measurement and texture detection|23rd International Conference on Optical Fibre Sensors. SPIE|[PDF](https://doi.org/10.1117/12.2059300)|
-|Optical microfibers for sensing proximity and contact in human–machine interfaces|ACS Applied Materials & Interfaces|[PDF](https://pubs.acs.org/doi/pdf/10.1021/acsami.1c23716?ref=article_openPDF)|
+|Optical microfibers for sensing proximity and contact in human–machine interfaces|ACS Applied Materials & Interfaces|[PDF](https://pubs.acs.org/doi/10.1021/acsami.1c23716)|
 |Flexible plasmonic optical tactile sensor for health monitoring and artificial haptic perception|Advanced Materials Technologies|[PDF](https://advanced.onlinelibrary.wiley.com/doi/10.1002/admt.202201506)|
 |Flexible micro-nano fiber sensors for tactile sensing|IEEE Sensors Journal|[PDF](https://ieeexplore.ieee.org/document/10375925)|
 |A biomimetic optical skin for multimodal tactile perception based on optical microfiber coupler neuron|Journal of Lightwave Technology|[PDF](https://ieeexplore.ieee.org/document/9964220)|
@@ -61,14 +61,13 @@
 |Fault-tolerant six-axis FBG force/moment sensing for robotic interventions|IEEE/ASME Transactions on Mechatronics|[PDF](https://ieeexplore.ieee.org/document/10144106)|
 |An artificial intelligence‐motivated skin‐like optical fiber tactile sensor|Advanced Intelligent Systems|[PDF](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202200460)|
 |RSM-based data-driven optimized design of a 3-D-printed building block-type FBG tactile sensor for nursing robots|IEEE Transactions on Instrumentation and Measurement|[PDF](https://ieeexplore.ieee.org/document/10129998)|
-|Soft biomimetic fiber-optic tactile sensors capable of discriminating temperature and pressure|ACS Applied Materials & Interfaces|[PDF](https://pubs.acs.org/doi/pdf/10.1021/acsami.3c12712?ref=article_openPDF)|
+|Soft biomimetic fiber-optic tactile sensors capable of discriminating temperature and pressure|ACS Applied Materials & Interfaces|[PDF](https://pubmed.ncbi.nlm.nih.gov/37934693/)|
 |Underactuated robotic gripper with fiber-optic force sensing tendons|IEEE Robotics and Automation Letters|[PDF](https://ieeexplore.ieee.org/document/10250947)|
 |Two-dimensional tactile force sensor based on chirped fiber Bragg grating assisted by convolutional neural network|IEEE Sensors Journal|[PDF](https://ieeexplore.ieee.org/document/10208134)|
 |Research on Convex Fiber Grating Tactile Sliding Sensor Based on Mechanical Fingers|Sensors|[PDF](https://www.mdpi.com/1424-8220/24/11/3374)|
 |Research on FBG tactile sensing shape recognition based on convolutional neural network|Sensors|[PDF](https://www.mdpi.com/1424-8220/24/13/4087)|
-|A Bioinspired Robotic Finger for Multimodal Tactile Sensing Powered by Fiber Optic Sensors|Advanced Intelligent Systems|[PDF](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/aisy.202400175)|
+|A Bioinspired Robotic Finger for Multimodal Tactile Sensing Powered by Fiber Optic Sensors|Advanced Intelligent Systems|[PDF](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202470034)|
 |Whisker-inspired tactile sensing: A sim2real approach for precise underwater contact tracking|IEEE Robotics and Automation Letters|[PDF](https://ieeexplore.ieee.org/document/10977993)|
 |A fingertip optical fiber composite sensor with conformal design for robotic perception of tactile forces|IEEE/ASME Transactions on Mechatronics|[PDF](https://ieeexplore.ieee.org/document/10697109)|
 |Underactuated robotic gripper with fiber-optic force sensing tendons|IEEE Robotics and Automation Letters|[PDF](https://ieeexplore.ieee.org/abstract/document/10250947)|
-|Whisker-inspired tactile sensing: A sim2real approach for precise underwater contact trackings|IEEE Robotics and Automation Letter|[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10977993)|
-|Soft biomimetic fiber-optic tactile sensors capable of discriminating temperature and pressure|ACS Applied Materials & Interfaces|[PDF](https://pubs.acs.org/doi/pdf/10.1021/acsami.3c12712?ref=article_openPDF)|
+|Whisker-inspired tactile sensing: A sim2real approach for precise underwater contact trackings|IEEE Robotics and Automation Letter|[PDF](https://ieeexplore.ieee.org/document/10977993)|
