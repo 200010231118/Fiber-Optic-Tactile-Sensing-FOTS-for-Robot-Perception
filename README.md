@@ -5,7 +5,7 @@
 
 |Paper|Journal|PDF|
 |---|---|---|
-|Fiber optic sliding sensor model and its simulation|Modeling and Simulating Sensory Response for Real and Virtual Environments. SPIE|[PDF](https://doi.org/10.1117/12.317563)|-|
+|Fiber optic sliding sensor model and its simulation|Modeling and Simulating Sensory Response for Real and Virtual Environments. SPIE|[PDF](https://doi.org/10.1117/12.317563)|
 |Highly soft viscoelastic robot skin with a contact object-location-sensing capability|IEEE Transactions on Industrial electronics|[PDF](https://ieeexplore.ieee.org/document/1490685)|
 |Integration of fiber-optic sensor arrays into a multi-modal tactile sensor processing system for robotic end-effectors|Sensors|[PDF](https://www.mdpi.com/1424-8220/14/4/6854)|
 |Color-coded fiber-optic tactile sensor for an elastomeric robot skin|2019 International conference on robotics and automation (ICRA). IEEE|[PDF](https://ieeexplore.ieee.org/document/8793262)|
