@@ -28,7 +28,9 @@
 |Flexible micro-nano fiber sensors for tactile sensing|IEEE Sensors Journal|[PDF](https://ieeexplore.ieee.org/document/10375925)|
 |A biomimetic optical skin for multimodal tactile perception based on optical microfiber coupler neuron|Journal of Lightwave Technology|[PDF](https://ieeexplore.ieee.org/document/9964220)|
 |Super-stretchable polymer optical fibers for robot finger posture and pressure recognition|Journal of Lightwave Technology|[PDF](https://ieeexplore.ieee.org/document/10805560)|
-
+|Bionic Photonic Haptic Chips Inspired by Dermo-Epidermal Interlocking Microstructures|IEEE Sensors Journal|[PDF](10.1109/JSEN.2025.3604458)|
+|Photonic Neuron Bio-Mimic Skin Based on Wave-Shaped Optical Microfiber Network for Super-Resolution Tactile Perception Research|Journal of Lightwave Technology|[PDF](10.1109/JLT.2026.3687519)|
+|A Textile-Integrated Pixelated Tactile Sensor Array Based on Interwoven Heterogeneous Polymer Optical Fibers|Advanced Fiber Materials|[PDF](https://doi.org/10.1007/s42765-026-00745-8)|
 
 ## Optical mode intensity modulation type tactile sensor
 
@@ -41,7 +43,7 @@
 |Creating a soft tactile skin employing fluorescence based optical sensing|IEEE Robotics and Automation Letters|[PDF](https://ieeexplore.ieee.org/document/9013016)|
 | Polymer-based self-calibrated optical fiber tactile sensor|2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE|[PDF](https://ieeexplore.ieee.org/document/10341656/)|
 |The tactile force sensing of the gripper based on the mode interference fiber sensor|IEEE Sensors Journal|[PDF](https://ieeexplore.ieee.org/document/10639329)|
-
+|Optical fiber tactile sensing array based on dynamic learning of optical specklegram|Sensors and Actuators A: Physical|[PDF](10.1016/j.sna.2026.117663)|
 
 ## Wavelength-modulated tactile sensing based on fiber Bragg grating (FBG)
 
@@ -71,3 +73,19 @@
 |A fingertip optical fiber composite sensor with conformal design for robotic perception of tactile forces|IEEE/ASME Transactions on Mechatronics|[PDF](https://ieeexplore.ieee.org/document/10697109)|
 |Underactuated robotic gripper with fiber-optic force sensing tendons|IEEE Robotics and Automation Letters|[PDF](https://ieeexplore.ieee.org/abstract/document/10250947)|
 |Whisker-inspired tactile sensing: A sim2real approach for precise underwater contact trackings|IEEE Robotics and Automation Letter|[PDF](https://ieeexplore.ieee.org/document/10977993)|
+|Multi-parameter tactile sensing and recognition for robotic finger based on Bi-FBG|Optics & Laser Technology|[PDF](10.1016/j.optlastec.2025.113634)|
+|Design of a Clip-On Modular Tactile Sensing Attachment Based on Fiber Bragg Gratings: Theoretical Modeling and Experimental Validation|Sensors|[PDF](https://doi.org/10.3390/s25195943)|
+|TacCap: A Wearable FBG-Based Tactile Sensor for Efficient Human-to-Robot Skill Transfer |2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)|[PDF](10.1109/IROS60139.2025.11246050)|
+|Tactile-Sensitive Artificial Skin for Multiaxial Force Detection and Texture Recognition|Journal of Lightwave Technology|[PDF](10.1109/JLT.2025.3634683)|
+|Research on FBG Flexible Sensors and Decoupling Methods for Tactile Perception|2025 7th International Conference on Intelligent Control, Measurement and Signal Processing (ICMSP)|[PDF](10.1109/ICMSP68723.2025.11407588)|
+|A Multifingered Robotic Hand With Fiber-Optic Force and Tactile Sensing for Remote Manipulation|IEEE Transactions on Robotics|[PDF](10.1109/TRO.2025.3645962)|
+|F-VIS: Efficient Robotic Tactile Sensing via Fiber Bragg Grating-Based Force and Vision Fusion|IEEE/ASME Transactions on Mechatronics|[PDF](10.1109/TMECH.2025.3643922)|
+|All-Polymer Arc-Shaped 3-D FBG Array Bionic Tactile Sensor and Its Application in Multidirectional Robotic Finger Force Identification|IEEE Sensors Journal|[PDF](10.1109/JSEN.2025.3649929)|
+|Double-layer staggered IWFBGs enable multi-dimensional tactile sensing on scalable flexible skin|Optics Express|[PDF](https://doi.org/10.1364/OE.587494)|
+|Two-dimensional contour tactile recognition based on fiber Bragg grating sensing technology|Optics & Laser Technology|[PDF](10.1016/j.optlastec.2026.115085)|
+|Tactile sensing artificial finger skin: equivalent multi-round dense sampling training strategy for network demodulation|Optics Express|[PDF](https://doi.org/10.1364/OE.597137)|
+|Design and Characterization of a Finger-Like Fiber Bragg Grating Tactile Sensor With Multiparameter Response|IEEE Sensors Journal|[PDF](10.1109/JSEN.2026.3705252)|
+|Autonomous Robotic Occluder Deployment With FBG Force Based Assessment in Left Atrial Appendage Closure|IEEE Robotics and Automation Letters|[PDF](10.1109/LRA.2026.3706927)|
+|A multimodal tactile measurement approach via a micropillar-enhanced FBG fingertip sensor|Sensors and Actuators A: Physical|[PDF](10.1016/j.sna.2026.118408)|
+|Tactile-FOAA: a perceptual modality fusion framework for bionic optoelectronic tactile systems|Applied Optics|[PDF](https://doi.org/10.1364/AO.604496)|
+|An FBG tactile sensor array and self-supervised contrastive learning transformer for tumor depth estimation in robotic palpation|npj Robotics|[PDF](https://doi.org/10.1038/s44182-026-00113-z)|
