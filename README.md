@@ -28,7 +28,8 @@
 |Flexible micro-nano fiber sensors for tactile sensing|IEEE Sensors Journal|[PDF](https://ieeexplore.ieee.org/document/10375925)|
 |A biomimetic optical skin for multimodal tactile perception based on optical microfiber coupler neuron|Journal of Lightwave Technology|[PDF](https://ieeexplore.ieee.org/document/9964220)|
 |Super-stretchable polymer optical fibers for robot finger posture and pressure recognition|Journal of Lightwave Technology|[PDF](https://ieeexplore.ieee.org/document/10805560)|
-|Bionic Photonic Haptic Chips Inspired by Dermo-Epidermal Interlocking Microstructures|IEEE Sensors Journal|[PDF](10.1109/JSEN.2025.3604458)|
+|Bionic Photonic Haptic Chips Inspired by Dermo-Epidermal Interlocking Microstructures|IEEE Sensors Journal|[PDF](https://doi.org/10.1109/JSEN.2025.3604458)|
+|Creating a soft tactile skin employing fluorescence based optical sensing|IEEE Robotics and Automation Letters|[PDF](https://ieeexplore.ieee.org/document/9013016)|
 |Photonic Neuron Bio-Mimic Skin Based on Wave-Shaped Optical Microfiber Network for Super-Resolution Tactile Perception Research|Journal of Lightwave Technology|[PDF](https://doi.org/10.1109/JLT.2026.3687519)|
 |A Textile-Integrated Pixelated Tactile Sensor Array Based on Interwoven Heterogeneous Polymer Optical Fibers|Advanced Fiber Materials|[PDF](https://doi.org/10.1007/s42765-026-00745-8)|
 
@@ -40,7 +41,6 @@
 |Innovative optical microsystem for static and dynamic tissue diagnosis in minimally invasive surgical operations|Journal of biomedical optics|[PDF](https://doi.org/10.1117/1.JBO.17.8.081416)|
 |Textile multitouch force-sensor array based on circular and non-circular polymer optical fibers|IEEE Sensors Journal|[PDF](https://ieeexplore.ieee.org/document/9055193/)|
 |Hybrid piezoresistive-optical tactile sensor for simultaneous measurement of tissue stiffness and detection of tissue discontinuity in robot-assisted minimally invasive surgery|Journal of biomedical optics|[PDF](https://doi.org/10.1117/1.JBO.22.7.077002)|
-|Creating a soft tactile skin employing fluorescence based optical sensing|IEEE Robotics and Automation Letters|[PDF](https://ieeexplore.ieee.org/document/9013016)|
 | Polymer-based self-calibrated optical fiber tactile sensor|2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE|[PDF](https://ieeexplore.ieee.org/document/10341656/)|
 |The tactile force sensing of the gripper based on the mode interference fiber sensor|IEEE Sensors Journal|[PDF](https://ieeexplore.ieee.org/document/10639329)|
 |Optical fiber tactile sensing array based on dynamic learning of optical specklegram|Sensors and Actuators A: Physical|[PDF](https://doi.org/10.1016/j.sna.2026.117663)|
